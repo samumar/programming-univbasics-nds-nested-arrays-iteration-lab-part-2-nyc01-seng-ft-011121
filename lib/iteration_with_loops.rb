@@ -6,7 +6,6 @@ while row_index < src.count do
   min = src[row_index].min
   while element_index < src[row_index].count do
     min
-     end
     element_index += 1 
   end
   outer_results << min
