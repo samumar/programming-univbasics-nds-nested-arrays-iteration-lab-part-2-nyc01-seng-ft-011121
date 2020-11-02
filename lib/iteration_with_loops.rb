@@ -3,7 +3,6 @@ outer_results = []
 row_index = 0 
 while row_index < src.count do
   element_index = 0 
-  min = src[row_index][element_index]
   while element_index < src[row_index].count do
      end
     element_index += 1 
